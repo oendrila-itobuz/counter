@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10%;
+}
+
+h3,
+h1 {
+  text-align: center;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}/*# sourceMappingURL=style.css.map */

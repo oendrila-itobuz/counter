@@ -1,5 +1,4 @@
 let counter = Number(document.getElementById("num-value"));
-console.log(counter);
 function inc() {
   counter = counter + 1;
   num.innerText = counter;
